@@ -44,7 +44,7 @@ const HomePage = () => {
               </div>
             </div>
           </div>
-          <div className="hidden md:w-1/2">
+          <div className="hidden md:flex md:w-1/2">
             <img src={ill} />
           </div>
         </div>
